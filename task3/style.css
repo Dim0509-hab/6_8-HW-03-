@@ -1,7 +1,21 @@
-#trafficLight {
+#trafficLight1 {
     width: 120px;
     height: 120px;
     border-radius: 50%;
     background: black;
+    margin: 10px;
+    margin-left: 340px;
+   
   
-  }
+}
+
+#telo {
+  
+  border-radius: 15%;
+  width: 200px;
+  height: 400px;
+  background-color: rgb(144, 132, 132);
+  margin-left: 300px;
+  margin-bottom: -400px;
+
+}
