@@ -2,10 +2,15 @@ ul {
     color: blue;
     font-size: 40px;
     font-family: Arial, sans-serif;
-    text-align: center;
+    margin-left: 250px;
+}
+li {
+    color: rgb(65, 175, 105);
+    
+    margin-left: 200px;
     
 }
 body {
-    background-color: lightgray;
+    background-color: rgb(194, 196, 182);
    
     }
