@@ -1,4 +1,4 @@
-#trafficLight1 {
+#trafficLight1, #trafficLight2, #trafficLight3 {
     width: 120px;
     height: 120px;
     border-radius: 50%;
@@ -6,7 +6,6 @@
     margin: 10px;
     margin-left: 340px;
    
-  
 }
 
 #telo {
